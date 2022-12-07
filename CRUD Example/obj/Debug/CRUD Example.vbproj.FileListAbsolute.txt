@@ -1,0 +1,11 @@
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\bin\Debug\CRUD Example.exe.config
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\obj\Debug\CRUD Example.vbprojResolveAssemblyReference.cache
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\obj\Debug\CRUD_Example.Resources.resources
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\obj\Debug\CRUD Example.vbproj.GenerateResource.Cache
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\obj\Debug\CRUD Example.xml
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\bin\Debug\CRUD Example.exe
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\bin\Debug\CRUD Example.pdb
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\bin\Debug\CRUD Example.xml
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\obj\Debug\CRUD_Example.Form1.resources
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\obj\Debug\CRUD Example.exe
+c:\users\bambo\documents\visual studio 2015\Projects\CRUD Example\CRUD Example\obj\Debug\CRUD Example.pdb
